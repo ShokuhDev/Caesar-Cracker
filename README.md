@@ -236,6 +236,3 @@ If you like this project, consider giving it a **star** on GitHub.
 ## 📜 License
 
 This project is open-source and available under the **MIT License**.
-1. **فایل `.gitignore` نهایی**
-2. **متن Release v1.0**
-3. **نسخه حتی حرفه‌ای‌تر README با badge**
