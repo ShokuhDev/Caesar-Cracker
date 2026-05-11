@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Caesar_Cracker/Caesar_Cracker.vcxproj" Id="05540fc5-7355-4a58-8de4-af6a5504e77f" />
+</Solution>
